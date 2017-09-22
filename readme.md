@@ -9,4 +9,4 @@ Usage:
 
 This Application was made using React and Redux.
 
-It features CRUD operations using these technologies and is meant to be for demonstration/educational purposes.
+It features CRUD operations using these technologies and is meant to be for demo/educational purposes.
